@@ -1,8 +1,8 @@
 #
-# Amazon Web Services (AWS)
+# Gatekeeper (gate|gk)
 #
-# The AWS Command Line Interface (CLI) is a unified tool to manage AWS services.
-# Link: https://aws.amazon.com/cli/
+# The Auth0 tool for managing AWS authenticated sessions
+# Link: https://github.com/auth0/gatekeeper
 
 # ------------------------------------------------------------------------------
 # Configuration
