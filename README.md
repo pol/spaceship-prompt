@@ -166,6 +166,10 @@ Set `ZSH_THEME="spaceship"` in your `.zshrc`.
 - Enable the `contrib-prompt` module (before the `prompt` module).
 - Set `zstyle ':prezto:module:prompt' theme 'spaceship'` in your `.zpreztorc`.
 
+### [zim]
+
+Add `zmodule denysdovhan/spaceship-prompt --name spaceship` to your `.zimrc` and run `zimfw install`.
+
 ### [antigen]
 
 Add the following snippet in your `~/.zshrc`:
@@ -272,9 +276,9 @@ Here's a list of related projects that have been inspired by Spaceship ZSH.
 
 ## Team
 
-| [![Denys Dovhan](https://github.com/denysdovhan.png?size=100)](http://denysdovhan.com) | [![Salmanul Farzy](https://github.com/salmanulfarzy.png?size=100)](https://github.com/salmanulfarzy) | [![Maxim Baz](https://github.com/maximbaz.png?size=100)](https://github.com/maximbaz) |
-| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-|                     [Denys Dovhan](https://github.com/denysdovhan)                     |                          [Salmanul Farzy](https://github.com/salmanulfarzy)                          |                       [Maxim Baz](https://github.com/maximbaz)                        |
+| [![Denys Dovhan](https://github.com/denysdovhan.png?size=100)](http://denysdovhan.com) | [![Salmanul Farzy](https://github.com/salmanulfarzy.png?size=100)](https://github.com/salmanulfarzy) | [![Maxim Baz](https://github.com/maximbaz.png?size=100)](https://github.com/maximbaz) | [![Runrioter Wung](https://github.com/Runrioter.png?size=100)](https://github.com/Runrioter) |
+| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+|                     [Denys Dovhan](https://github.com/denysdovhan)                     |                          [Salmanul Farzy](https://github.com/salmanulfarzy)                          |                       [Maxim Baz](https://github.com/maximbaz)                        |                       [Runrioter Wung](https://github.com/Runrioter)                        |
 
 ## Donate
 
@@ -308,6 +312,7 @@ MIT © [Denys Dovhan](http://denysdovhan.com)
 
 [oh-my-zsh]: http://ohmyz.sh/
 [prezto]: https://github.com/sorin-ionescu/prezto
+[zim]: https://github.com/zimfw/zimfw
 [antigen]: http://antigen.sharats.me/
 [zgen]: https://github.com/tarjoilija/zgen
 [npm]: https://www.npmjs.com/
